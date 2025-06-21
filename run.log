@@ -1,0 +1,18 @@
+2025-06-21 00:14:10.543925: Script loaded. Calling main() directly.
+2025-06-21 00:14:10.545035: --- SCRIPT START ---
+2025-06-21 00:14:10.545545: Loading .env file...
+2025-06-21 00:14:10.547338: .env file loaded.
+2025-06-21 00:14:10.547885: API Key loaded: Yes
+2025-06-21 00:14:10.548345: Checking for image at: Screenshot 2025-06-17 120645.png
+2025-06-21 00:14:10.548999: Image found.
+2025-06-21 00:14:10.549425: Entering main logic block...
+2025-06-21 00:14:10.549922: Configuring Gemini...
+2025-06-21 00:14:10.550480: Gemini configured.
+2025-06-21 00:14:10.551100: Loading image: Screenshot 2025-06-17 120645.png
+2025-06-21 00:14:10.575242: Asking Gemini to describe the image...
+2025-06-21 00:14:11.582485: Received response from Gemini.
+2025-06-21 00:14:11.592117: 
+--- Gemini's Description ---
+2025-06-21 00:14:11.594035: Shaded area of a rectangle.
+2025-06-21 00:14:11.595262: --------------------------
+2025-06-21 00:14:11.596246: --- SCRIPT END ---

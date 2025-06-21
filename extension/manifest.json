@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "LazyBull",
+  "description": "Analyze stock-chart images with Google's Gemini via local FastAPI backend.",
+  "version": "0.2",
+  "permissions": ["activeTab", "tabs"],
+  "host_permissions": ["http://localhost:8000/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "LazyBull",
+    "default_icon": "image.png"
+  }
+}
